@@ -1,3 +1,3 @@
 # qgj
-Android APP，下载链接：https://www.lanzous.com/b00t38jvg
+轻工具 for Android，下载链接：https://www.lanzous.com/b00t38jvg
 github我用不太来……
